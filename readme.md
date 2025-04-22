@@ -20,7 +20,7 @@
 
 # ➕ Contact & Connect
 
-### 📃 [My Resume](#https://github.com/maddyginter/resume/blob/main/2025-MadelineGinter-Resume.pdf)
+### 📃 [My Resume](https://github.com/maddyginter/resume/blob/main/2025-MadelineGinter-Resume.pdf)
 
 ### 🔗 [LinkedIn](https://www.linkedin.com/in/madeline-ginter)
 
