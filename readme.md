@@ -2,9 +2,9 @@
 
 🎓 I'm **Madeline Ginter**, a recent graduate from Trent University with a **Joint Major in Computing Systems and Media Studies**.
 
-💡 I'm passionate about the intersection of **technology, communication, and design** — always seeking creative ways to make complex systems more approachable and engaging.
+💡 I'm passionate about the intersection of **technology, communication, and design** - always seeking creative ways to make complex systems more approachable and engaging.
 
-💻 I currently work at **IBM** as a **Tech Sales Enablement Developer – Z Systems**, where I:
+💻 I currently work at **IBM** as a **Tech Sales Enablement Developer - Z Systems**, where I:
 
 - Design and develop interactive educational content on enterprise computing
 - Translate complex technical topics into hands-on, engaging learning experiences
